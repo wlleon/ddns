@@ -10,6 +10,7 @@ global HostIP
 global Login_Token
 global Domain_Id
 
+
 def init_domain(domain):
     global Domain_Id
     try:
