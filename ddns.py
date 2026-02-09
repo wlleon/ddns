@@ -10,6 +10,8 @@ global HostIP
 global Login_Token
 global Domain_Id
 
+# check domain exists
+
 def init_domain(domain):
     global Domain_Id
     try:
